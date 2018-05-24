@@ -1,0 +1,213 @@
+  ====AVALIN RADIF KHODE VIDEO ORIGINAL HAST VA BAGHIYE ADAPTIVE FORMATS HASTAN====
+
+  fps=30
+  quality_label=720p
+  bitrate=2242431
+  projection_type=1
+  lmt=1508462653638703
+  url=https%3A%2F%2Fr5---sn-p5qs7nes.googlevideo.com%2Fvideoplayback%3Frequiressl%3Dyes%26ip%3D142.44.216.224%26ms%3Dau%252Crdu%26mv%3Dm%26mt%3D1527088498%26pl%3D20%26id%3Do-ACWP_zbG7fbAS5Cr1TqlclogpR3eCZGPREQ1mprqkqeV%26mime%3Dvideo%252Fmp4%26mn%3Dsn-p5qs7nes%252Csn-p5qlsndd%26mm%3D31%252C29%26ipbits%3D0%26expire%3D1527110188%26dur%3D18.151%26ei%3Dy4UFW6i6OY_tigSbl5_YCg%26initcwndbps%3D347500%26clen%3D4213756%26gir%3Dyes%26source%3Dyoutube%26aitags%3D133%252C134%252C135%252C136%252C160%252C242%252C243%252C244%252C247%252C278%26sparams%3Daitags%252Cclen%252Cdur%252Cei%252Cgir%252Cid%252Cinitcwndbps%252Cip%252Cipbits%252Citag%252Ckeepalive%252Clmt%252Cmime%252Cmm%252Cmn%252Cms%252Cmv%252Cpl%252Crequiressl%252Csource%252Cexpire%26itag%3D136%26keepalive%3Dyes%26beids%3D%255B9466591%255D%26lmt%3D1508462653638703%26key%3Dyt6%26fvip%3D5%26signature%3D8B4876A457630FDA90A1FF5ED44E3303EE1DB4B8.808868F538144A54A4E064508994536671F9CE1D%26c%3DWEB
+  
+  ==============================================================================
+  
+  type=video%2Fmp4%3B+codecs%3D%22avc1.4d401f%22
+  xtags=
+  size=1280x720
+  clen=4213756
+  init=0-712
+  index=713-792
+  itag=136,fps=30
+  quality_label=720p
+  bitrate=1595506
+  projection_type=1
+  lmt=1497204222533011
+  url=https%3A%2F%2Fr5---sn-p5qs7nes.googlevideo.com%2Fvideoplayback%3Frequiressl%3Dyes%26ip%3D142.44.216.224%26ms%3Dau%252Crdu%26mv%3Dm%26mt%3D1527088498%26pl%3D20%26id%3Do-ACWP_zbG7fbAS5Cr1TqlclogpR3eCZGPREQ1mprqkqeV%26mime%3Dvideo%252Fwebm%26mn%3Dsn-p5qs7nes%252Csn-p5qlsndd%26mm%3D31%252C29%26ipbits%3D0%26expire%3D1527110188%26dur%3D18.118%26ei%3Dy4UFW6i6OY_tigSbl5_YCg%26initcwndbps%3D347500%26clen%3D3276255%26gir%3Dyes%26source%3Dyoutube%26aitags%3D133%252C134%252C135%252C136%252C160%252C242%252C243%252C244%252C247%252C278%26sparams%3Daitags%252Cclen%252Cdur%252Cei%252Cgir%252Cid%252Cinitcwndbps%252Cip%252Cipbits%252Citag%252Ckeepalive%252Clmt%252Cmime%252Cmm%252Cmn%252Cms%252Cmv%252Cpl%252Crequiressl%252Csource%252Cexpire%26itag%3D247%26keepalive%3Dyes%26beids%3D%255B9466591%255D%26lmt%3D1497204222533011%26key%3Dyt6%26fvip%3D5%26signature%3D3E73FAF331D59D413831BBE9BD0DAD44C0F766D3.906B7DB0081F78F1448661006CFCF3F1CF00297F%26c%3DWEB
+  
+  ==============================================================================
+  
+  type=video%2Fwebm%3B+codecs%3D%22vp9%22
+  xtags=
+  size=1280x720
+  clen=3276255
+  init=0-242
+  index=243-309
+  itag=247,fps=30
+  quality_label=480p
+  bitrate=1151318
+  projection_type=1
+  lmt=1508462653378843
+  url=https%3A%2F%2Fr5---sn-p5qs7nes.googlevideo.com%2Fvideoplayback%3Frequiressl%3Dyes%26ip%3D142.44.216.224%26ms%3Dau%252Crdu%26mv%3Dm%26mt%3D1527088498%26pl%3D20%26id%3Do-ACWP_zbG7fbAS5Cr1TqlclogpR3eCZGPREQ1mprqkqeV%26mime%3Dvideo%252Fmp4%26mn%3Dsn-p5qs7nes%252Csn-p5qlsndd%26mm%3D31%252C29%26ipbits%3D0%26expire%3D1527110188%26dur%3D18.151%26ei%3Dy4UFW6i6OY_tigSbl5_YCg%26initcwndbps%3D347500%26clen%3D2110894%26gir%3Dyes%26source%3Dyoutube%26aitags%3D133%252C134%252C135%252C136%252C160%252C242%252C243%252C244%252C247%252C278%26sparams%3Daitags%252Cclen%252Cdur%252Cei%252Cgir%252Cid%252Cinitcwndbps%252Cip%252Cipbits%252Citag%252Ckeepalive%252Clmt%252Cmime%252Cmm%252Cmn%252Cms%252Cmv%252Cpl%252Crequiressl%252Csource%252Cexpire%26itag%3D135%26keepalive%3Dyes%26beids%3D%255B9466591%255D%26lmt%3D1508462653378843%26key%3Dyt6%26fvip%3D5%26signature%3D0D5BB739B8FB91396AEF8083EEAF68D31F0A4259.A61DA8D34CF05DD538BE742ADAFF8F8CE8469CEE%26c%3DWEB
+  
+  ==============================================================================
+  
+  type=video%2Fmp4%3B+codecs%3D%22avc1.4d401f%22
+  xtags=
+  size=854x480
+  clen=2110894
+  init=0-712
+  index=713-792
+  itag=135,fps=30
+  quality_label=480p
+  bitrate=739594
+  projection_type=1
+  lmt=1497204331083902
+  url=https%3A%2F%2Fr5---sn-p5qs7nes.googlevideo.com%2Fvideoplayback%3Frequiressl%3Dyes%26ip%3D142.44.216.224%26ms%3Dau%252Crdu%26mv%3Dm%26mt%3D1527088498%26pl%3D20%26id%3Do-ACWP_zbG7fbAS5Cr1TqlclogpR3eCZGPREQ1mprqkqeV%26mime%3Dvideo%252Fwebm%26mn%3Dsn-p5qs7nes%252Csn-p5qlsndd%26mm%3D31%252C29%26ipbits%3D0%26expire%3D1527110188%26dur%3D18.118%26ei%3Dy4UFW6i6OY_tigSbl5_YCg%26initcwndbps%3D347500%26clen%3D1596610%26gir%3Dyes%26source%3Dyoutube%26aitags%3D133%252C134%252C135%252C136%252C160%252C242%252C243%252C244%252C247%252C278%26sparams%3Daitags%252Cclen%252Cdur%252Cei%252Cgir%252Cid%252Cinitcwndbps%252Cip%252Cipbits%252Citag%252Ckeepalive%252Clmt%252Cmime%252Cmm%252Cmn%252Cms%252Cmv%252Cpl%252Crequiressl%252Csource%252Cexpire%26itag%3D244%26keepalive%3Dyes%26beids%3D%255B9466591%255D%26lmt%3D1497204331083902%26key%3Dyt6%26fvip%3D5%26signature%3D56915481BEC76DCABB0E674EAEC39C99548DE942.B2F764F8E78EAC055B1A61FDF7F186F4F12A9104%26c%3DWEB
+  
+  ==============================================================================
+  
+  type=video%2Fwebm%3B+codecs%3D%22vp9%22
+  xtags=
+  size=854x480
+  clen=1596610
+  init=0-242
+  index=243-309
+  itag=244,fps=30
+  quality_label=360p
+  bitrate=467725
+  projection_type=1
+  lmt=1508462653253652
+  url=https%3A%2F%2Fr5---sn-p5qs7nes.googlevideo.com%2Fvideoplayback%3Frequiressl%3Dyes%26ip%3D142.44.216.224%26ms%3Dau%252Crdu%26mv%3Dm%26mt%3D1527088498%26pl%3D20%26id%3Do-ACWP_zbG7fbAS5Cr1TqlclogpR3eCZGPREQ1mprqkqeV%26mime%3Dvideo%252Fmp4%26mn%3Dsn-p5qs7nes%252Csn-p5qlsndd%26mm%3D31%252C29%26ipbits%3D0%26expire%3D1527110188%26dur%3D18.151%26ei%3Dy4UFW6i6OY_tigSbl5_YCg%26initcwndbps%3D347500%26clen%3D887392%26gir%3Dyes%26source%3Dyoutube%26aitags%3D133%252C134%252C135%252C136%252C160%252C242%252C243%252C244%252C247%252C278%26sparams%3Daitags%252Cclen%252Cdur%252Cei%252Cgir%252Cid%252Cinitcwndbps%252Cip%252Cipbits%252Citag%252Ckeepalive%252Clmt%252Cmime%252Cmm%252Cmn%252Cms%252Cmv%252Cpl%252Crequiressl%252Csource%252Cexpire%26itag%3D134%26keepalive%3Dyes%26beids%3D%255B9466591%255D%26lmt%3D1508462653253652%26key%3Dyt6%26fvip%3D5%26signature%3D3E3A0094AF5E1EC3293741550793170C44503F3E.DBE67E807F6BEDA449CC79EBDDF971AD0CD99F2F%26c%3DWEB
+  
+  ==============================================================================
+  
+  type=video%2Fmp4%3B+codecs%3D%22avc1.4d401e%22
+  xtags=
+  size=640x360
+  clen=887392
+  init=0-712
+  index=713-792
+  itag=134,fps=30
+  quality_label=360p
+  bitrate=400750
+  projection_type=1
+  lmt=1497204223160603
+  url=https%3A%2F%2Fr5---sn-p5qs7nes.googlevideo.com%2Fvideoplayback%3Frequiressl%3Dyes%26ip%3D142.44.216.224%26ms%3Dau%252Crdu%26mv%3Dm%26mt%3D1527088498%26pl%3D20%26id%3Do-ACWP_zbG7fbAS5Cr1TqlclogpR3eCZGPREQ1mprqkqeV%26mime%3Dvideo%252Fwebm%26mn%3Dsn-p5qs7nes%252Csn-p5qlsndd%26mm%3D31%252C29%26ipbits%3D0%26expire%3D1527110188%26dur%3D18.118%26ei%3Dy4UFW6i6OY_tigSbl5_YCg%26initcwndbps%3D347500%26clen%3D834782%26gir%3Dyes%26source%3Dyoutube%26aitags%3D133%252C134%252C135%252C136%252C160%252C242%252C243%252C244%252C247%252C278%26sparams%3Daitags%252Cclen%252Cdur%252Cei%252Cgir%252Cid%252Cinitcwndbps%252Cip%252Cipbits%252Citag%252Ckeepalive%252Clmt%252Cmime%252Cmm%252Cmn%252Cms%252Cmv%252Cpl%252Crequiressl%252Csource%252Cexpire%26itag%3D243%26keepalive%3Dyes%26beids%3D%255B9466591%255D%26lmt%3D1497204223160603%26key%3Dyt6%26fvip%3D5%26signature%3DC1796819FBAEB3F1225E8999B2572FEEF079231B.B7031134BCFB3DD75123EF04E562EC2A73DB69E2%26c%3DWEB
+  
+  ==============================================================================
+  
+  type=video%2Fwebm%3B+codecs%3D%22vp9%22
+  xtags=
+  size=640x360
+  clen=834782
+  init=0-242
+  index=243-309
+  itag=243,fps=30
+  quality_label=240p
+  bitrate=140782
+  projection_type=1
+  lmt=1508462653149145
+  url=https%3A%2F%2Fr5---sn-p5qs7nes.googlevideo.com%2Fvideoplayback%3Frequiressl%3Dyes%26ip%3D142.44.216.224%26ms%3Dau%252Crdu%26mv%3Dm%26mt%3D1527088498%26pl%3D20%26id%3Do-ACWP_zbG7fbAS5Cr1TqlclogpR3eCZGPREQ1mprqkqeV%26mime%3Dvideo%252Fmp4%26mn%3Dsn-p5qs7nes%252Csn-p5qlsndd%26mm%3D31%252C29%26ipbits%3D0%26expire%3D1527110188%26dur%3D18.151%26ei%3Dy4UFW6i6OY_tigSbl5_YCg%26initcwndbps%3D347500%26clen%3D274066%26gir%3Dyes%26source%3Dyoutube%26aitags%3D133%252C134%252C135%252C136%252C160%252C242%252C243%252C244%252C247%252C278%26sparams%3Daitags%252Cclen%252Cdur%252Cei%252Cgir%252Cid%252Cinitcwndbps%252Cip%252Cipbits%252Citag%252Ckeepalive%252Clmt%252Cmime%252Cmm%252Cmn%252Cms%252Cmv%252Cpl%252Crequiressl%252Csource%252Cexpire%26itag%3D133%26keepalive%3Dyes%26beids%3D%255B9466591%255D%26lmt%3D1508462653149145%26key%3Dyt6%26fvip%3D5%26signature%3D6BDEB81F261665381FB3DE01174C6C068A19A54C.7684C9AE5B50B4CE95F0FD57A3F50AF4419840B2%26c%3DWEB
+  
+  ==============================================================================
+  
+  type=video%2Fmp4%3B+codecs%3D%22avc1.4d4015%22
+  xtags=
+  size=426x240
+  clen=274066
+  init=0-712
+  index=713-792
+  itag=133,fps=30
+  quality_label=240p
+  bitrate=223058
+  projection_type=1
+  lmt=1497204223142688
+  url=https%3A%2F%2Fr5---sn-p5qs7nes.googlevideo.com%2Fvideoplayback%3Frequiressl%3Dyes%26ip%3D142.44.216.224%26ms%3Dau%252Crdu%26mv%3Dm%26mt%3D1527088498%26pl%3D20%26id%3Do-ACWP_zbG7fbAS5Cr1TqlclogpR3eCZGPREQ1mprqkqeV%26mime%3Dvideo%252Fwebm%26mn%3Dsn-p5qs7nes%252Csn-p5qlsndd%26mm%3D31%252C29%26ipbits%3D0%26expire%3D1527110188%26dur%3D18.118%26ei%3Dy4UFW6i6OY_tigSbl5_YCg%26initcwndbps%3D347500%26clen%3D456899%26gir%3Dyes%26source%3Dyoutube%26aitags%3D133%252C134%252C135%252C136%252C160%252C242%252C243%252C244%252C247%252C278%26sparams%3Daitags%252Cclen%252Cdur%252Cei%252Cgir%252Cid%252Cinitcwndbps%252Cip%252Cipbits%252Citag%252Ckeepalive%252Clmt%252Cmime%252Cmm%252Cmn%252Cms%252Cmv%252Cpl%252Crequiressl%252Csource%252Cexpire%26itag%3D242%26keepalive%3Dyes%26beids%3D%255B9466591%255D%26lmt%3D1497204223142688%26key%3Dyt6%26fvip%3D5%26signature%3DDFB3914173DEC4551576ABEC50687392DF3986AC.5A978182A15E89592307B41D2642DE3CAADC8249%26c%3DWEB
+  
+  ==============================================================================
+  
+  type=video%2Fwebm%3B+codecs%3D%22vp9%22
+  xtags=
+  size=426x240
+  clen=456899
+  init=0-241
+  index=242-308
+  itag=242,fps=30
+  quality_label=144p
+  bitrate=63895
+  projection_type=1
+  lmt=1508462653155595
+  url=https%3A%2F%2Fr5---sn-p5qs7nes.googlevideo.com%2Fvideoplayback%3Frequiressl%3Dyes%26ip%3D142.44.216.224%26ms%3Dau%252Crdu%26mv%3Dm%26mt%3D1527088498%26pl%3D20%26id%3Do-ACWP_zbG7fbAS5Cr1TqlclogpR3eCZGPREQ1mprqkqeV%26mime%3Dvideo%252Fmp4%26mn%3Dsn-p5qs7nes%252Csn-p5qlsndd%26mm%3D31%252C29%26ipbits%3D0%26expire%3D1527110188%26dur%3D18.151%26ei%3Dy4UFW6i6OY_tigSbl5_YCg%26initcwndbps%3D347500%26clen%3D127284%26gir%3Dyes%26source%3Dyoutube%26aitags%3D133%252C134%252C135%252C136%252C160%252C242%252C243%252C244%252C247%252C278%26sparams%3Daitags%252Cclen%252Cdur%252Cei%252Cgir%252Cid%252Cinitcwndbps%252Cip%252Cipbits%252Citag%252Ckeepalive%252Clmt%252Cmime%252Cmm%252Cmn%252Cms%252Cmv%252Cpl%252Crequiressl%252Csource%252Cexpire%26itag%3D160%26keepalive%3Dyes%26beids%3D%255B9466591%255D%26lmt%3D1508462653155595%26key%3Dyt6%26fvip%3D5%26signature%3DBDFA9EA9BB6A65076D531F99D1573E31BFC1A6E7.7A54E9848EB97F1E9A95880AF19C371454B290F9%26c%3DWEB
+  
+  ==============================================================================
+  
+  type=video%2Fmp4%3B+codecs%3D%22avc1.4d400c%22
+  xtags=
+  size=256x144
+  clen=127284
+  init=0-711
+  index=712-791
+  itag=160,fps=30
+  quality_label=144p
+  bitrate=90601
+  projection_type=1
+  lmt=1497204222419795
+  url=https%3A%2F%2Fr5---sn-p5qs7nes.googlevideo.com%2Fvideoplayback%3Frequiressl%3Dyes%26ip%3D142.44.216.224%26ms%3Dau%252Crdu%26mv%3Dm%26mt%3D1527088498%26pl%3D20%26id%3Do-ACWP_zbG7fbAS5Cr1TqlclogpR3eCZGPREQ1mprqkqeV%26mime%3Dvideo%252Fwebm%26mn%3Dsn-p5qs7nes%252Csn-p5qlsndd%26mm%3D31%252C29%26ipbits%3D0%26expire%3D1527110188%26dur%3D18.118%26ei%3Dy4UFW6i6OY_tigSbl5_YCg%26initcwndbps%3D347500%26clen%3D200111%26gir%3Dyes%26source%3Dyoutube%26aitags%3D133%252C134%252C135%252C136%252C160%252C242%252C243%252C244%252C247%252C278%26sparams%3Daitags%252Cclen%252Cdur%252Cei%252Cgir%252Cid%252Cinitcwndbps%252Cip%252Cipbits%252Citag%252Ckeepalive%252Clmt%252Cmime%252Cmm%252Cmn%252Cms%252Cmv%252Cpl%252Crequiressl%252Csource%252Cexpire%26itag%3D278%26keepalive%3Dyes%26beids%3D%255B9466591%255D%26lmt%3D1497204222419795%26key%3Dyt6%26fvip%3D5%26signature%3DCFB692B99B7CD303451FD933DD5D46044912760D.B1E7BE33A39553616455A461614902736FA43F14%26c%3DWEB
+  
+  ==============================================================================
+  
+  type=video%2Fwebm%3B+codecs%3D%22vp9%22
+  xtags=
+  size=256x144
+  clen=200111
+  init=0-241
+  index=242-307
+  itag=278,init=0-591
+  projection_type=1
+  xtags=
+  
+  ==============================================================================
+  
+  type=audio%2Fmp4%3B+codecs%3D%22mp4a.40.2%22
+  bitrate=127564
+  clen=295671
+  lmt=1508462553986664
+  index=592-647
+  itag=140
+  url=https%3A%2F%2Fr5---sn-p5qs7nes.googlevideo.com%2Fvideoplayback%3Frequiressl%3Dyes%26ip%3D142.44.216.224%26ms%3Dau%252Crdu%26mv%3Dm%26mt%3D1527088498%26pl%3D20%26id%3Do-ACWP_zbG7fbAS5Cr1TqlclogpR3eCZGPREQ1mprqkqeV%26mime%3Daudio%252Fmp4%26mn%3Dsn-p5qs7nes%252Csn-p5qlsndd%26mm%3D31%252C29%26ipbits%3D0%26expire%3D1527110188%26dur%3D18.575%26ei%3Dy4UFW6i6OY_tigSbl5_YCg%26initcwndbps%3D347500%26clen%3D295671%26gir%3Dyes%26source%3Dyoutube%26sparams%3Dclen%252Cdur%252Cei%252Cgir%252Cid%252Cinitcwndbps%252Cip%252Cipbits%252Citag%252Ckeepalive%252Clmt%252Cmime%252Cmm%252Cmn%252Cms%252Cmv%252Cpl%252Crequiressl%252Csource%252Cexpire%26itag%3D140%26keepalive%3Dyes%26beids%3D%255B9466591%255D%26lmt%3D1508462553986664%26key%3Dyt6%26fvip%3D5%26signature%3DD80DE3307683790EB8B473167627ADBACB926EFD.255E09E0DAB798BB4A4F358A80DBFCF7397C7C5F%26c%3DWEB,init=0-4451
+  projection_type=1
+  xtags=
+  
+  ==============================================================================
+  
+  type=audio%2Fwebm%3B+codecs%3D%22vorbis%22
+  bitrate=6019
+  clen=10117
+  lmt=1497203696700382
+  index=4452-4485
+  itag=171
+  url=https%3A%2F%2Fr5---sn-p5qs7nes.googlevideo.com%2Fvideoplayback%3Frequiressl%3Dyes%26ip%3D142.44.216.224%26ms%3Dau%252Crdu%26mv%3Dm%26mt%3D1527088498%26pl%3D20%26id%3Do-ACWP_zbG7fbAS5Cr1TqlclogpR3eCZGPREQ1mprqkqeV%26mime%3Daudio%252Fwebm%26mn%3Dsn-p5qs7nes%252Csn-p5qlsndd%26mm%3D31%252C29%26ipbits%3D0%26expire%3D1527110188%26dur%3D18.522%26ei%3Dy4UFW6i6OY_tigSbl5_YCg%26initcwndbps%3D347500%26clen%3D10117%26gir%3Dyes%26source%3Dyoutube%26sparams%3Dclen%252Cdur%252Cei%252Cgir%252Cid%252Cinitcwndbps%252Cip%252Cipbits%252Citag%252Ckeepalive%252Clmt%252Cmime%252Cmm%252Cmn%252Cms%252Cmv%252Cpl%252Crequiressl%252Csource%252Cexpire%26itag%3D171%26keepalive%3Dyes%26beids%3D%255B9466591%255D%26lmt%3D1497203696700382%26key%3Dyt6%26fvip%3D5%26signature%3D42A6448798D2699D684AB589C64B73792DA02B24.6A2783942D5B251A9F71FAEEE9B6A313198827B1%26c%3DWEB,init=0-271
+  projection_type=1
+  xtags=
+  
+  ==============================================================================
+  
+  type=audio%2Fwebm%3B+codecs%3D%22opus%22
+  bitrate=3856
+  clen=8688
+  lmt=1497203756843484
+  index=272-305
+  itag=249
+  url=https%3A%2F%2Fr5---sn-p5qs7nes.googlevideo.com%2Fvideoplayback%3Frequiressl%3Dyes%26ip%3D142.44.216.224%26ms%3Dau%252Crdu%26mv%3Dm%26mt%3D1527088498%26pl%3D20%26id%3Do-ACWP_zbG7fbAS5Cr1TqlclogpR3eCZGPREQ1mprqkqeV%26mime%3Daudio%252Fwebm%26mn%3Dsn-p5qs7nes%252Csn-p5qlsndd%26mm%3D31%252C29%26ipbits%3D0%26expire%3D1527110188%26dur%3D18.521%26ei%3Dy4UFW6i6OY_tigSbl5_YCg%26initcwndbps%3D347500%26clen%3D8688%26gir%3Dyes%26source%3Dyoutube%26sparams%3Dclen%252Cdur%252Cei%252Cgir%252Cid%252Cinitcwndbps%252Cip%252Cipbits%252Citag%252Ckeepalive%252Clmt%252Cmime%252Cmm%252Cmn%252Cms%252Cmv%252Cpl%252Crequiressl%252Csource%252Cexpire%26itag%3D249%26keepalive%3Dyes%26beids%3D%255B9466591%255D%26lmt%3D1497203756843484%26key%3Dyt6%26fvip%3D5%26signature%3D8A2BD258101DD9CF68A36E3DB1BD7B21FE0F8E06.1EB25CBB3274FA626F3A10D493ADF3101C36171B%26c%3DWEB,init=0-271
+  projection_type=1
+  xtags=
+  
+  ==============================================================================
+  
+  type=audio%2Fwebm%3B+codecs%3D%22opus%22
+  bitrate=3856
+  clen=8688
+  lmt=1497203699713020
+  index=272-305
+  itag=250
+  url=https%3A%2F%2Fr5---sn-p5qs7nes.googlevideo.com%2Fvideoplayback%3Frequiressl%3Dyes%26ip%3D142.44.216.224%26ms%3Dau%252Crdu%26mv%3Dm%26mt%3D1527088498%26pl%3D20%26id%3Do-ACWP_zbG7fbAS5Cr1TqlclogpR3eCZGPREQ1mprqkqeV%26mime%3Daudio%252Fwebm%26mn%3Dsn-p5qs7nes%252Csn-p5qlsndd%26mm%3D31%252C29%26ipbits%3D0%26expire%3D1527110188%26dur%3D18.521%26ei%3Dy4UFW6i6OY_tigSbl5_YCg%26initcwndbps%3D347500%26clen%3D8688%26gir%3Dyes%26source%3Dyoutube%26sparams%3Dclen%252Cdur%252Cei%252Cgir%252Cid%252Cinitcwndbps%252Cip%252Cipbits%252Citag%252Ckeepalive%252Clmt%252Cmime%252Cmm%252Cmn%252Cms%252Cmv%252Cpl%252Crequiressl%252Csource%252Cexpire%26itag%3D250%26keepalive%3Dyes%26beids%3D%255B9466591%255D%26lmt%3D1497203699713020%26key%3Dyt6%26fvip%3D5%26signature%3D5126FA9A849FB72C0F00DB19D77087985D6CA16F.7E0E31DD9B4495D62B13EAA61813AA5AF180A790%26c%3DWEB,init=0-271
+  projection_type=1
+  xtags=
+  
+  ==============================================================================
+  
+  type=audio%2Fwebm%3B+codecs%3D%22opus%22
+  bitrate=3856
+  clen=8688
+  lmt=1497203696637418
+  index=272-305
+  itag=251
+  url=https%3A%2F%2Fr5---sn-p5qs7nes.googlevideo.com%2Fvideoplayback%3Frequiressl%3Dyes%26ip%3D142.44.216.224%26ms%3Dau%252Crdu%26mv%3Dm%26mt%3D1527088498%26pl%3D20%26id%3Do-ACWP_zbG7fbAS5Cr1TqlclogpR3eCZGPREQ1mprqkqeV%26mime%3Daudio%252Fwebm%26mn%3Dsn-p5qs7nes%252Csn-p5qlsndd%26mm%3D31%252C29%26ipbits%3D0%26expire%3D1527110188%26dur%3D18.521%26ei%3Dy4UFW6i6OY_tigSbl5_YCg%26initcwndbps%3D347500%26clen%3D8688%26gir%3Dyes%26source%3Dyoutube%26sparams%3Dclen%252Cdur%252Cei%252Cgir%252Cid%252Cinitcwndbps%252Cip%252Cipbits%252Citag%252Ckeepalive%252Clmt%252Cmime%252Cmm%252Cmn%252Cms%252Cmv%252Cpl%252Crequiressl%252Csource%252Cexpire%26itag%3D251%26keepalive%3Dyes%26beids%3D%255B9466591%255D%26lmt%3D1497203696637418%26key%3Dyt6%26fvip%3D5%26signature%3D9D5056489260F841A347FDFEAB9618F97A6C6E5E.D23473C8CC4C13C964B1FB5CEFAF77115BA99610%26c%3DWEB

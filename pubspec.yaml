@@ -1,0 +1,10 @@
+name: sepisoad
+description: this is a media downloader from online services like youtube and soundcloud
+
+dependencies:
+  args: ^1.4.3
+  http: ^0.11.3+16
+
+
+dev_dependencies:
+  test: ^0.12.38+1
